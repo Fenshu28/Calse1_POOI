@@ -11,6 +11,7 @@ class Persona{
 	// Función para definir el peso
 	// Función para definir la edad
 	// Función para definir el color de cabello
+	// Función para retornar el IMC
 }
 
 class Humano{
