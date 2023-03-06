@@ -7,6 +7,7 @@ class Persona{
 	// Código 2
 	// Funciones publicas en persona.
 	// Funcion para calcular el IMC
+	// Funcion para definir la estatura
 }
 
 class Humano{
