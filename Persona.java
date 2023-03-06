@@ -8,7 +8,7 @@ class Persona{
 	// Funciones publicas en persona.
 	// Función para calcular el IMC 2
 	// Función para calcular la glucosa
-	// Función para calcular el HR
+	// Función para calcular el HR 2
 	// Función para definir la estatura
 	// Función para definir el peso
 	// Función para definir la edad
