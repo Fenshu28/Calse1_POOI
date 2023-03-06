@@ -16,6 +16,7 @@ class Persona{
 	// Función para definir la profesión
 	// Función para definir el PPG
 	// Función para retornar el IMC
+	// Función para retornar el HR
 }
 
 class Humano{
