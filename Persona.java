@@ -9,6 +9,7 @@ class Persona{
 	// Funcion para calcular el IMC
 	// Funcion para definir la estatura
 	// Función para definir el peso
+	// Función para definir la edad
 }
 
 class Humano{
