@@ -6,8 +6,9 @@ class Persona{
 	// Creamos propiedades de la clase
 	// Código 2
 	// Funciones publicas en persona.
-	// Funcion para calcular el IMC
-	// Funcion para definir la estatura
+	// Función para calcular el IMC
+	// Función para calcular la glucosa
+	// Función para definir la estatura
 	// Función para definir el peso
 	// Función para definir la edad
 	// Función para definir el color de cabello
