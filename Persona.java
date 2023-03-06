@@ -2,4 +2,5 @@
 
 class Persona{
 	// Declaración de variables.
+	// Código 1
 }
