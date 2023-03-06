@@ -6,6 +6,7 @@ class Persona{
 	// Creamos propiedades de la clase
 	// Código 2
 	// Funciones publicas en persona.
+	// Funcion para calcular el IMC
 }
 
 class Humano{
