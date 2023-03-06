@@ -5,4 +5,10 @@ class Persona{
 	// Código 1
 	// Creamos propiedades de la clase
 	// Código 2
+	
+}
+
+
+class Humano{
+	
 }
