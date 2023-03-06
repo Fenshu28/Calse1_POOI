@@ -15,4 +15,5 @@ class Persona{
 
 class Humano{
 	// Declaración de variables en humano.
+	// Función para definir la nacionalidad
 }
