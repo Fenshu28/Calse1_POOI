@@ -10,6 +10,7 @@ class Persona{
 	// Funcion para definir la estatura
 	// Función para definir el peso
 	// Función para definir la edad
+	// Función para definir el color de cabello
 }
 
 class Humano{
